@@ -18,7 +18,7 @@ Source Code (.py) → Tokenizing → AST → Compilation (Bytecode) → Python V
 
 *Example snippet:*  
 
-For a function execution demonstration, see [practice](../python_internals/practice.py)
+For a function execution demonstration, see [practice](../practice.py)
 ---
 
 ## 2️⃣ Memory Management
@@ -41,7 +41,7 @@ Python memory is divided into *Stack* and *Heap*:
 - Handles circular references that reference counting alone cannot free  
 
 *Demonstration:*  
-See [memory_examples](../python_internals/memory_ex.py) for examples of stack vs heap, reference counts, and circular reference cleanup.
+See [memory_examples](../memory_ex.py) for examples of stack vs heap, reference counts, and circular reference cleanup.
 
 ---
 
@@ -51,7 +51,7 @@ See [memory_examples](../python_internals/memory_ex.py) for examples of stack vs
 - Multiple variables can reference the same object; modifying via one affects all  
 
 *Practice:*  
-Check [memory_examples](../python_internals/memory_ex.py#L15-L20) for variable binding examples.
+Check [memory_examples](../memory_ex.py#L15-L20) for variable binding examples.
 
 ---
 
@@ -62,7 +62,7 @@ Check [memory_examples](../python_internals/memory_ex.py#L15-L20) for variable b
 - Helps understand *Python’s internal execution*  
 
 *Try it:*  
-See [bytecode_examples](../python_internals/bytecode_examples.py) for function bytecode examples.
+See [bytecode_examples](../bytecode_examples.py) for function bytecode examples.
 
 ---
 
@@ -72,7 +72,7 @@ See [bytecode_examples](../python_internals/bytecode_examples.py) for function b
 - *Heap:* Stores dynamically created objects  
 
 *Visualization:*  
-See [memory_examples](../python_internals/memory_ex.py#L5-L25) for practical examples and object IDs.
+See [memory_examples](../memory_ex.py#L5-L25) for practical examples and object IDs.
 
 ---
 
