@@ -1,6 +1,8 @@
 # Python Internals & Execution model
 
+
 This folder contains my structured experiments and notes on Python Internals,including execution model,memory management,bytecode,and practical examples.
+
 ---
 ## Summary of key concepts
 
