@@ -1,0 +1,7 @@
+# String Indexing Example
+
+s = "Python"
+
+print("First character:", s[0])
+print("Last character:", s[-1])
+print("Third character:", s[2])
