@@ -1,10 +1,13 @@
 # My learnings Journey
+
 This repository showcases my **learning journey** across multiple topics
+
 ---
 ## Folder Structure
 ```
 learnings/
-├── python-internals/
+├── python_internals/
+├── python_strings/
 ├── README.md
 │   
 ```
