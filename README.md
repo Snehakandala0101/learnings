@@ -6,6 +6,7 @@ This repository showcases my **learning journey** across multiple topics
 ## Folder Structure
 ```
 learnings/
+├── python_data_structures/
 ├── python_internals/
 ├── python_strings/
 ├── README.md
