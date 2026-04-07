@@ -1,0 +1,8 @@
+2026-04-07 11:23:06,594-INFO-Program started,taking user input
+2026-04-07 11:23:16,792-INFO-Entered add() function
+2026-04-07 11:23:16,792-DEBUG-Input values: a=40, b=20
+2026-04-07 11:23:16,792-INFO-Addition result: 60
+2026-04-07 11:23:16,792-INFO-Entered divide() function
+2026-04-07 11:23:16,792-DEBUG-Input values: a=40, b=20
+2026-04-07 11:23:16,792-INFO-Division result: 2.0
+2026-04-07 11:23:16,792-INFO-Program ended

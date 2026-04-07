@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "product_name": "Oats",
+            "price": 200,
+            "quantity": "200g"
+        },
+        {
+            "product_name": "Dates",
+            "price": 600,
+            "quantity": "500g"
+        },
+        {
+            "product_name": "Kaju",
+            "price": 800,
+            "quantity": "1000g"
+        },
+        {
+            "product_name": "Muesli",
+            "price": 400,
+            "quantity": "500g"
+        },
+        {
+            "product_name": "almonds",
+            "price": 300.0,
+            "quantity": 200
+        }
+    ]
+}

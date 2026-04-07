@@ -1,0 +1,10 @@
+Amul,123456
+charan,char987
+Anitha,abc12345
+Sucharitha,PASS5678
+Nandini,1234NAndu
+Rahul,0987hughv
+Keshav,Keshav@5467
+Niharika,Naina@5432
+Jessy,jessikaaaa
+Blessy,blesuuu9870
