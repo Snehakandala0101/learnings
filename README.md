@@ -6,6 +6,7 @@ This repository showcases my **learning journey** across multiple topics
 ## Folder Structure
 ```
 learnings/
+├── decorators
 ├── exception_handling/
 ├── file_handling/
 ├── functions/
